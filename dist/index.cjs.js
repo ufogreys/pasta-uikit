@@ -2067,14 +2067,14 @@ var socials = [
         items: [
             {
                 label: "Announcements",
-                href: "https://t.me/PastaFinanceAnnouncements",
+                href: "https://t.me/Doge_Gold_Floki",
             }
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pastafinance",
+        href: "https://twitter.com/Doge_Gold_Floki",
     },
 ];
 var MENU_HEIGHT = 64;
